@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Yasser</h1>
 <h3 align="center">Junior Software Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmedyas94&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmedyas94" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Yaserr&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Yaserr" /> </p>
 <img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif"/>
 
 - 🌱 I’m currently learning Flutter Mobile Development
@@ -10,7 +10,7 @@
 <a href="mailto:mekko234gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23F45.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/Ahmedyas94" target="_blank">
+<a href="https://github.com/Ahmed-Yaserr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/ahmed-yasser910/" target="_blank">
@@ -45,14 +45,14 @@
 
 
 <div>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ahmedyas94&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedyas94&theme=radical&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Yaserr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Yaserr&theme=radical&hide_border=true" />
 </div>
 <br>
 
 
 <div>
-<img width="49.5%" align="top" src="https://github-profile-trophy.vercel.app/?username=Ahmedyas94&theme=radical&row=2&column=3&no-frame=true&no-bg=false&margin-w=5&margin-h=5" />
-<img width="49.5%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedyas94&layout=compact&theme=radical&hide_border=true&langs_count=12&hide=jupyter%20notebook" />  
+<img width="49.5%" align="top" src="https://github-profile-trophy.vercel.app/?username=Ahmed-Yaserr&theme=radical&row=2&column=3&no-frame=true&no-bg=false&margin-w=5&margin-h=5" />
+<img width="49.5%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Yaserr&layout=compact&theme=radical&hide_border=true&langs_count=12&hide=jupyter%20notebook" />  
  </div>
  
